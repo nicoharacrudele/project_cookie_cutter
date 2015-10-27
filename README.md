@@ -1,5 +1,5 @@
 
-## Cookie Cutter Project Script for us
+### Cookie Cutter Project Script for us
 
 Nico Crudele, Billy Hung,  October 27, 2015
 
